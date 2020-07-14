@@ -1,0 +1,22 @@
+
+
+.white-theme{
+    color:black;
+    background-color: white;
+}
+
+.dark-theme{
+    color:white;
+    background-color: black;
+}
+
+.bimg {
+    position:relative;
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover;
+
+
+}
