@@ -1,5 +1,5 @@
-# YouNote
-## It is a Notes App, where you can write up your notes.
+## YouNote
+It is a Notes App, where you can write up your notes.
 Technologies used in the project :<br />
 - HTML<br />
 - CSS<br />
