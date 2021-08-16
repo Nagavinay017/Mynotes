@@ -10,5 +10,3 @@ Technologies used in the project :<br />
 ## How to use the website
 Open `index.html` page<br />
 Enter the title and message to note it.
-
-### [Website Link](https://nagavinay017.github.io/Younote/)
